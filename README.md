@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thrinath <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="40" height="40" /></h1>
+<h1 align="center">Hi 👋, I'm Thrinath <img src="[https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd290Y2h3b2JuMXA3cTFqNzh6M2Vjdmc0YzV2MzR2cmVqMHRiYXJxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bc9YL28QWi3pYzi1p/giphy.gif)" width="40" height="40" /></h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student</h3>
 
 ---
