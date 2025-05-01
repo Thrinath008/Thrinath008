@@ -50,6 +50,22 @@
 
 ---
 
+### **Fun Software Engineer GIFs:**
+
+- **When you solve a problem like a pro:**  
+![Problem Solving](https://media.giphy.com/media/2wY8sq2Rfbb8FqfJYw/giphy.gif)
+
+- **Coding in action:**  
+![Coding](https://media.giphy.com/media/26FPqjqECp5aMlnaY/giphy.gif)
+
+- **Debugging mode:**  
+![Debugging](https://media.giphy.com/media/2XGGmLqvUEt1g/giphy.gif)
+
+- **When the code finally works:**  
+![Code Working](https://media.giphy.com/media/1bc1j9dtk0IZu5o7Mw/giphy.gif)
+
+---
+
 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrinath008&theme=tokyonight" alt="streak-stats" />
