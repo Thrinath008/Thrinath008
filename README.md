@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thrinath</h1>
+<h1 align="center">Hi 👋, I'm Thrinath <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="40" height="40" /></h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student</h3>
-
----
-
-### 🧠 When the bug finally makes sense
-![Bug fix moment](https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif)
 
 ---
 
@@ -29,7 +24,8 @@
 
 ---
 
-💻 **Tech Stack**  
+💻 **Tech Stack**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -57,19 +53,21 @@
 
 ---
 
-### 🎉 Fun Software Engineer GIFs
-
-**When you solve a problem like a pro:**  
-![Problem Solving](https://media.giphy.com/media/2wY8sq2Rfbb8FqfJYw/giphy.gif)
-
-**When coding gets too intense:**  
-![Funny coding moment](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
-
-**Debugging mode:**  
-![Debugging](https://media.giphy.com/media/2XGGmLqvUEt1g/giphy.gif)
-
-**When the code finally works:**  
-![Code Working](https://media.giphy.com/media/1bc1j9dtk0IZu5o7Mw/giphy.gif)
+📜 **LinkedIn Bio**  
+>I am not just a Python developer.  
+>I am not just a Java developer.  
+>I don’t simply build websites or backend tools.  
+>
+>✨ I am a Software Engineer.  
+>💡 A problem solver driven by innovation and creativity.  
+>
+>Engineering, to me, is about breaking barriers and finding solutions where others see roadblocks.  
+>There’s no problem too big, no skill too hard, and no challenge I can’t tackle.  
+>
+>An engineer can do anything.  
+>(Yes, even ask ChatGPT for help with writing this!) 😗  
+>
+>**Let’s connect and build what others only dream of.**
 
 ---
 
@@ -84,22 +82,3 @@
 
 🏆 **GitHub Trophies**  
 <img src="https://github-profile-trophy.vercel.app/?username=Thrinath008&theme=onedark" />
-
----
-
-### 💼 LinkedIn Bio Snippet
-
-> I am not just a Python developer.  
-> I am not just a Java developer.  
-> I don’t simply build websites or backend tools.  
->   
-> ✨ I am a Software Engineer.  
-> 💡 A problem solver driven by innovation and creativity.  
->   
-> Engineering, to me, is about breaking barriers and finding solutions where others see roadblocks.  
-> There’s no problem too big, no skill too hard, and no challenge I can’t tackle.  
->   
-> An engineer can do anything.  
-> (Yes, even ask ChatGPT for help with writing this!) 😗  
->   
-> Let’s connect and build what others only dream of.
