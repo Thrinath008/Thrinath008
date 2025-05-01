@@ -56,7 +56,9 @@
 ![Problem Solving](https://media.giphy.com/media/2wY8sq2Rfbb8FqfJYw/giphy.gif)
 
 - **Coding in action:**  
-![Coding](https://media.giphy.com/media/26FPqjqECp5aMlnaY/giphy.gif)
+**When coding gets too intense:**  
+![Funny coding moment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ6YWJndzh1aDRnazV6ZnpkMjhiM2duczB3OGwxaWptMXVycGJhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif)
+
 
 - **Debugging mode:**  
 ![Debugging](https://media.giphy.com/media/2XGGmLqvUEt1g/giphy.gif)
