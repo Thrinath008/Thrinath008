@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thrinath</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student</h3>
----
--**When the bug finally makes sense:**  
-![Bug fix moment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd290Y2h3b2JuMXA3cTFqNzh6M2Vjdmc0YzV2MzR2cmVqMHRiYXJxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bc9YL28QWi3pYzi1p/giphy.gif)
+
 ---
 
+### 🧠 When the bug finally makes sense
+![Bug fix moment](https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif)
 
+---
 
 💫 **About Me**  
 🔭 I’m currently working on:  
@@ -56,20 +57,18 @@
 
 ---
 
-### **Fun Software Engineer GIFs:**
+### 🎉 Fun Software Engineer GIFs
 
-- **When you solve a problem like a pro:**  
+**When you solve a problem like a pro:**  
 ![Problem Solving](https://media.giphy.com/media/2wY8sq2Rfbb8FqfJYw/giphy.gif)
 
-- **Coding in action:**  
 **When coding gets too intense:**  
-![Funny coding moment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ6YWJndzh1aDRnazV6ZnpkMjhiM2duczB3OGwxaWptMXVycGJhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif)
+![Funny coding moment](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
-
-- **Debugging mode:**  
+**Debugging mode:**  
 ![Debugging](https://media.giphy.com/media/2XGGmLqvUEt1g/giphy.gif)
 
-- **When the code finally works:**  
+**When the code finally works:**  
 ![Code Working](https://media.giphy.com/media/1bc1j9dtk0IZu5o7Mw/giphy.gif)
 
 ---
@@ -85,3 +84,22 @@
 
 🏆 **GitHub Trophies**  
 <img src="https://github-profile-trophy.vercel.app/?username=Thrinath008&theme=onedark" />
+
+---
+
+### 💼 LinkedIn Bio Snippet
+
+> I am not just a Python developer.  
+> I am not just a Java developer.  
+> I don’t simply build websites or backend tools.  
+>   
+> ✨ I am a Software Engineer.  
+> 💡 A problem solver driven by innovation and creativity.  
+>   
+> Engineering, to me, is about breaking barriers and finding solutions where others see roadblocks.  
+> There’s no problem too big, no skill too hard, and no challenge I can’t tackle.  
+>   
+> An engineer can do anything.  
+> (Yes, even ask ChatGPT for help with writing this!) 😗  
+>   
+> Let’s connect and build what others only dream of.
