@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thrinath <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50" height="50" /></h1>
+<h1 align="center">Hi 👋, I'm Thrinath <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="70" height="70" /></h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student</h3>
 
 ---
